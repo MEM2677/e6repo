@@ -1,0 +1,13 @@
+code: news-bundle
+description: This is the news bundle
+
+components:
+  plugins:
+    - plugins/news-plugin.yaml
+
+  widgets:
+    - ui/widgets/notizie/tableWidget/notizie-table-widget-descriptor.yaml
+    - ui/widgets/notizie/detailsWidget/notizie-details-widget-descriptor.yaml
+    - ui/widgets/notizie/formWidget/notizie-form-widget-descriptor.yaml
+# entando-needle-descriptor-add-widgets - Entando blueprint will add widget bundle files here
+

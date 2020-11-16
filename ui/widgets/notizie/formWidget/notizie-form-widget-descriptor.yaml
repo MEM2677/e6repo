@@ -1,0 +1,6 @@
+code: notizie-form-widget
+titles:
+  en: Notizie Form Widget
+  it: Notizie Form Widget
+group: free
+customUiPath: notizie-form-widget.ftl

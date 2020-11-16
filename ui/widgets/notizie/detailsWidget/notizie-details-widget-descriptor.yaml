@@ -1,0 +1,6 @@
+code: notizie-details-widget
+titles:
+  en: Notizie Details Widget
+  it: Notizie Details Widget
+group: free
+customUiPath: notizie-details-widget.ftl
